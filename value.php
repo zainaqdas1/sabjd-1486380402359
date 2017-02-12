@@ -21,8 +21,8 @@ $gwe=getUrl('/me',$tk,array(
 ));
 
 $site=' ♥ c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
-
-|| chaudhrys-web.tk || Self Server 2 ||  
+ 
+ ●<~|| chaudhrys-web.tk ||~>●  
  ';
 $true=$ops.'
  '.$site;
